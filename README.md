@@ -1,0 +1,2 @@
+# mana
+collect information
